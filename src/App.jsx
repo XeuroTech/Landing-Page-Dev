@@ -1,9 +1,10 @@
 import React from 'react'
+import Home from './page/Home'
 
 const App = () => {
   return (
     <div>
-      <h1>iqrar</h1>
+    <Home/>
     </div>
   )
 }
