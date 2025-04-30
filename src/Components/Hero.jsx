@@ -24,7 +24,7 @@ const Hero = () => {
                     </button>
                 </div>
 
-                <button className="bg-transparent text-white px-6 py-3 rounded-md font-medium border border-white  hover:bg-gray-50 transition-colors">
+                <button className="bg-transparent text-white px-6 py-3 rounded-md font-medium border border-white  hover:bg-transparent-50 transition-colors">
                     Try GitHub Copilot
                 </button>
             </div>
