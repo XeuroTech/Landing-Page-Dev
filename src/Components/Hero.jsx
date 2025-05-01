@@ -8,7 +8,7 @@ const Hero = () => {
             </h1>
 
             <p className="text-xl text-white mb-8">
-                Join the world's most widely adopted AI-powered developer platform.
+                Join the world's most widely adopted AI-powered developer platform. Lets begin!
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
